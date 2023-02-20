@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sergio 👋
 
 <!--
 **cheko30/cheko30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
