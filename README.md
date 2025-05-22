@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheko</h1>
 <h3 align="center">I am a software developer and I like to be constantly learning about new technologies.</h3>
 
-- 🔭 I’m currently working on Tecnoala **Lawyer's App**
+- 🔭 I’m currently working on Mercado Libre
 
 - 🌱 I’m currently learning **Flutter, Node, Ruby**
 
