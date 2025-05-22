@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mercado Libre
 
-- 🌱 I’m currently learning **Flutter, Node, Ruby**
+- 🌱 I’m currently learning **Go and AI**
 
 - 📫 How to reach me **sergio.pena.orozco@gmail.com**
 
